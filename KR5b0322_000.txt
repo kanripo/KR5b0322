@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:16:28.358866
-#+TITLE: 太上宣慈助化章
-#+PROPERTY: DZID  DZ0617
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—310 五卷 洞玄部表奏類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
