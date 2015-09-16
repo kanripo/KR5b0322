@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:16:28.358866
+# -*- mode: mandoku-view -*-
 #+TITLE: 太上宣慈助化章
-#+PROPERTY: DZID  DZ0617
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—310 五卷 洞玄部表奏類
+#+DATE: 2015-08-29 00:16:29
+#+PROPERTY:  LASTPB <PB KR5b0322_SJB_005-110330c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5b0322_HFL_005-017b>¶¶¶¶¶¶¶¶¶¶¶
+
